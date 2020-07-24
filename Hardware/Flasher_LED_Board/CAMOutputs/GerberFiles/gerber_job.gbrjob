@@ -1,0 +1,20 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-24T10:09:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.574794,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Flasher_LED_Board"
+        },
+        "Owner": "Paul Clark <pc235603@gmail.com>"
+    }
+}
