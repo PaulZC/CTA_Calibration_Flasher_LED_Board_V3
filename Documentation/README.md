@@ -1,4 +1,4 @@
-# Nanosecond LED Flasher Shield: Hardware Overview
+# CTA Calibration Flasher: LED Board V3: Hardware Overview
 
 A nanosecond LED flasher board which provides digital control of both pulse width and LED current. Designed to aid
 photomultiplier detector calibration and characterisation.
@@ -68,7 +68,7 @@ to allow the board to be uniquely identified during calibration.
 
 ## Connector
 
-The connector is a [Samtec FW-08-05]
+The connector is a [Samtec FW-08-05](https://www.samtec.com/products/fw-sm)
 
 ![Connector](../img/Connector.JPG)
 
